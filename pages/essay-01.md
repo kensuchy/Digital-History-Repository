@@ -22,8 +22,11 @@ Leave an empty line between headings and paragraphs.
 [GitHub Help](https://help.github.com/)
 
 .Idaho
+
 .Oregon
+
 .Alaska
+
 .Nevada
 
 Font can be *Italic* or **Bold**.
