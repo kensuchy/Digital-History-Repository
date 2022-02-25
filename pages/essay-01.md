@@ -15,9 +15,16 @@ In Markdown, any text with no empty lines between will become a paragraph.
 
 Leave an empty line between headings and paragraphs.
 
-This is a story of a man named Jed.
+*This is a story of a man named Jed.*
 
-A poor mountaineer who barely kept his family fed!
+**A poor mountaineer who barely kept his family fed!**
+
+[GitHub Help](https://help.github.com/)
+
+.Idaho
+.Oregon
+.Alaska
+.Nevada
 
 Font can be *Italic* or **Bold**.
 
