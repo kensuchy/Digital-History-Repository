@@ -15,6 +15,10 @@ In Markdown, any text with no empty lines between will become a paragraph.
 
 Leave an empty line between headings and paragraphs.
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
+
+I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.
+
 *This is a story of a man named Jed.*
 
 **A poor mountaineer who barely kept his family fed!**
