@@ -17,6 +17,8 @@ Leave an empty line between headings and paragraphs.
 
 {% include feature/image.html filename="visualization.png" alt="image of a word cloud generated from Party Platform texts from the years 1900-1944" %}
 
+{% include feature/image.html filename="Women.png" alt="The word women used in State of the Union Speeches" %}
+
 {% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
 
 I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
