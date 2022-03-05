@@ -19,6 +19,10 @@ Leave an empty line between headings and paragraphs.
 
 I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
 
+---
+
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+
 *This is a story of a man named Jed.*
 
 **A poor mountaineer who barely kept his family fed!**
