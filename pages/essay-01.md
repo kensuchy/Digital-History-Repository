@@ -35,7 +35,7 @@ I thought this graph was interesting because the topic is about America as a wor
 
 Font can be *Italic* or **Bold**.
 
-Citing your work is important! [^1]
+Citing your work is important!
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
