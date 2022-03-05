@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # 20th Century War Demonstrations
 
@@ -18,6 +18,8 @@ Leave an empty line between headings and paragraphs.
 {% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
 
 I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
+
+### My First Subheading
 
 ---
 
