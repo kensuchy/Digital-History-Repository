@@ -17,7 +17,7 @@ Leave an empty line between headings and paragraphs.
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
 
-I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.
+I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
 
 *This is a story of a man named Jed.*
 
@@ -77,5 +77,7 @@ Include a pdf:
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
 ## Notes
+
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 
 [^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
