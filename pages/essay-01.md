@@ -8,7 +8,6 @@ permalink: /essay-01.html
 
 # Evolution of Women's Influence in America
 
-I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
 
 ## Introduction
 
@@ -37,6 +36,9 @@ Eleanor Roosevelt was the epitome of this image. She did not work for woman’s 
 
 {% include feature/image.html filename="Women.png" alt="The word women used in State of the Union Speeches" %}
 
+this graph shows the use of the word womwn in State of the Union speaches for the first half of the 20th century. Women are not mentioned much until Roosevelt's administration.
+
+
 ## Roosevelt's wisdom
 
 ---
@@ -51,40 +53,17 @@ Roosevelt nominated Mary McLeod Bethune to the board of the National Youth Admin
 
 The evolution of these changes in the woman’s role were brought to fruition during World War II. In 1940 about one quarter of women were in the labor force which was about the same as in 1910. During the war six million women entered the work force for the first time. Gender norms were changed as men left for war and women assumed their roles in the family and in the workplace. They had to go from working in the home, subservient to their spouse to moving easily within the public workplace and controlling their family checkbook. Women became an ever-present sight in the cities as they traveled to and from work, enjoyed a social life and even dined alone. They left low paying jobs to pursue jobs with more responsibility and were a common sight in defense plants where they performed all kinds of jobs. 350,000 women joined the armed forces. Combat was closed to women but they filled the many support jobs that were available. 
 
+## Conclusion
+
+---
+
 Without the ability to participate in the nations political process, women would have been ill prepared to meet the challenges they were faced with at the outbreak of World War II. They were called on to man the home front and keep America functioning while the men were off fighting the war. The results of the suffrage movement and their participation in the process gave them the confidence and exposure to take on these increased responsibilities. Role models such as Eleanor Roosevelt and Frances Perkins showed the average woman that they could do the job that was before them and that they could aspire to greater things. 
 
 
 
 
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-A horizontal line break can be useful for separating content:
-
-----
-
-Include an image:
-
-{% include feature/image.html filename="demo_001.jpg" alt="image of UI Admin building" caption="Historic photo of the University of Idaho campus" width="50" %}
-
-Include a pdf:
-
-{% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
-
-## Conclusion
 
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
