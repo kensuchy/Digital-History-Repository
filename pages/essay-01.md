@@ -8,20 +8,13 @@ permalink: /essay-01.html
 
 # Evolution of Women's Influence in America
 
-
-
-
-{% include feature/image.html filename="Women.png" alt="The word women used in State of the Union Speeches" %}
-
-{% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
-
 I thought this graph was interesting because the topic is about America as a world power but the high points of the topic were during the fifties and sixties. I would thought that America as a world power would have been more in the seventies and eighties when the Soviet Union fell and the US became more dominant.[^1]
 
 ## Introduction
 
 During the nineteenth century women participated in politics and society in an ancillary way by working for the abolishment of slavery and supporting their husbands in their endeavors. But since the times of Abigail Adams and imploring her husband for women to be included in the political process women have wanted their voices to be heard. As the nineteenth century turned into the twentieth women became more visible on the political landscape. It was the acceptance of the nineteenth amendment by Congress and the willingness of politicians such as Franklin D. Roosevelt to include women in the national arena. This opened the doors during World War II for acceptance of women in the workplace and confidence in their abilities to perform whatever tasks that were put in front of them.
 
-### The fight for Suffrage
+## The fight for Suffrage
 
 ---
 
@@ -31,7 +24,7 @@ The Women’s Christian Temperance Union was leading the way for woman’s suffr
 
 The women got their break in 1912 when the public soured on the antisuffragist lobbying by liquor dealers, textile owners and anti-reform politicians. The Progressive Party realized that they needed to empower their female allies and so they endorsed women’s suffrage. Intelligent well-spoken women began campaigning for suffrage which helped men to realize that giving them the vote would not be a terrible thing. Western states such as Utah, Wyoming, Colorado, and Idaho had granted full women’s suffrage in 1900. Five more western states granted suffrage in 1912 and two more in 1917. Western states were open to new ideas and were not as dominated by vested interests. A few states allowed women to vote in local elections but not in the national ones. Away from the suffrage front, Elizabeth Gurley Flynn an IWW organizer brought striking women together and forced the American Woolen Company to the bargaining table. The mills offered raises as well as time and a quarter for overtime and Flynn showed that women could be a force to be reckoned with as labor organizers.
 
-#### Wilson's reticence
+## Wilson's reticence
 
 ---
 
@@ -42,7 +35,9 @@ As the US entered World War I Wilson had to rally groups he previously had ignor
 Women considered to be adrift just decades earlier became the leaders in change for women during the 1920’s. Just five years earlier women had to have chaperones to go out in public. By 1925 women were venturing out alone or on dates with men. Their clothing changed as hem lines raised and dresses loosened. Women’s bathing suits became tank tops and shorts. All of which would have been scandalous just years earlier. Women were free to frequent dance halls where they shook their bodies to the latest tunes. Political roles expanded as they extended the concepts of municipal housecleaning towards improved sanitation, pure food and drugs laws, public transit, and new parks. Part of the hesitance in ratifying the 19th amendment was the unknown of how women voting would change the political environment. They ended up voting as their families would not necessarily as a political block. The changes that came about were that women were more active campaigning for candidates who then nominated them for State and Local governmental positions. 
 Eleanor Roosevelt was the epitome of this image. She did not work for woman’s issues in and of themselves but she sought to persuade women to vote Democratic. She argued that women were different from men but they were equal to men in political rights. She fought for legal protection for working women, directed the bureau of women’s activities of the Democratic National Committee and headed the women’s advisory committee for New York governor Al Smith’s presidential campaign. She put her body and soul into her tasks and headed a loyal staff. This was further exemplified when FDR became President and Eleanor took her husbands agenda to the common people. She changed the image of the first lady and engaged herself in politics, holding press conferences about issues and working to change the publics perception of women. She continued working to get more women appointed to governmental posts. 
 
-##### Roosevelt's wisdom
+{% include feature/image.html filename="Women.png" alt="The word women used in State of the Union Speeches" %}
+
+## Roosevelt's wisdom
 
 ---
 
@@ -50,7 +45,7 @@ President Roosevelt surrounded himself with talented, knowledgeable people. He a
 
 Roosevelt nominated Mary McLeod Bethune to the board of the National Youth Administration. This was a WPA department that trained and employed young people. She brought discriminatory actions by the program to the Presidents attention. For her actions he created a position for her as director of the NYA’s Division of Negro Affairs. He admired her as a practical politician and said of her “Mrs. Bethune is a great woman. She has her feet on the ground; not only on the ground but deep down in the ploughed soil.” She worked for substantial changes in race relations in the Roosevelt administration. Her voice was heard by the President and the First Lady.
 
-###### World War II
+## World War II
 
 ---
 
