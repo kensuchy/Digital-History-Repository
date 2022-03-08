@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;The fight for Suffrage;Wilson's reticence;Roosevelt's wisdom;World War II;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;The fight for Suffrage;Wilsons reticence;Roosevelts wisdom;World War II;Conclusion;Notes" %}
 
 # Evolution of Women's Influence in America
 
