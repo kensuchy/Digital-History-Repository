@@ -37,7 +37,7 @@ Eleanor Roosevelt was the epitome of this image. She did not work for woman’s 
 
 {% include feature/image.html filename="Women.png" alt="The word women used in State of the Union Speeches" %}
 
-this graph shows the use of the word womwn in State of the Union speaches for the first half of the 20th century. Women are not mentioned much until Roosevelt's administration.
+This graph shows the use of the word woman in State of the Union speaches for the first half of the 20th century. Women are not mentioned much until Roosevelt's administration.
 
 
 ## Roosevelt's wisdom
