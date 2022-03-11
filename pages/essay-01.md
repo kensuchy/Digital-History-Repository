@@ -23,6 +23,10 @@ The Women’s Christian Temperance Union lead the way for woman’s suffrage. Th
 
 The women got their break in 1912 when the public soured on the antisuffragist lobbying by liquor dealers, textile owners and anti-reform politicians. The Progressive Party realized that they needed to empower their female allies and so they endorsed women’s suffrage. Intelligent well-spoken women began campaigning for suffrage which helped men to realize that giving them the vote would not be a terrible thing. Western states such as Utah, Wyoming, Colorado, and Idaho had granted full women’s suffrage in 1900. Five more western states granted suffrage in 1912 and two more in 1917. Western states were open to new ideas and were not as dominated by vested interests as those in the east. A few states allowed women to vote in local elections but not in the national ones. Away from the suffrage front, Elizabeth Gurley Flynn an IWW organizer brought striking women together and forced the American Woolen Company to the bargaining table. The mills offered raises as well as time and a quarter for overtime. Flynn showed that women could be a force to be reckoned with as labor organizers.
 
+{% include feature/image.html filename="No women.png" alt="Women not one of the top 250 words " %}
+
+This shows the top 250 words in the State of the Union addresses in the first half of the twentieth century. Note that women is not among them.
+
 ## Wilson's reticence
 
 ---
