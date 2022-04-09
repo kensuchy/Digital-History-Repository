@@ -67,6 +67,9 @@ The evolution of these changes in the woman’s role were brought to fruition du
 Without the ability to participate in the nations political process, women would have been ill prepared to meet the challenges they were faced with at the outbreak of World War II. They were called on to man the home front and keep America functioning while the men were off fighting the war. The results of the suffrage movement and their participation in the process gave them the confidence and exposure to take on these increased responsibilities. Role models such as Eleanor Roosevelt and Frances Perkins showed the average woman that they could do the job that was before them and that they could aspire to even greater things. 
 
 
+{% include feature/line-chart.html data="sotu-1946-2000" topic=" Education provides opportunity" %}
+
+
 
 
 
