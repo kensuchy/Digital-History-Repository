@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Women's Suffrage in Idaho;Women's Suffrage for Minorities in Idaho;Women's Suffrage on the National Scale;World War II;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Womens Suffrage in Idaho;Womens Suffrage for Minorities in Idaho;Womens Suffrage on the National Scale;World War II;Conclusion;Notes" %}
 
 # Evolution of Women's Influence in America
 
@@ -13,7 +13,7 @@ permalink: /essay-02.html
 
 During the nineteenth century women participated in politics and society in an ancillary way by working for the abolishment of slavery and supporting their husbands in their endeavors. But since the late eighteenth century when Abigail Adams implored her husband to include women in the political process of the new nation, women have wanted to have their voices heard. As the nineteenth century turned into the twentieth century women became more visible on the political landscape. The ratification of the nineteenth amendment by Congress and the willingness of politicians such as Franklin D. Roosevelt to include women in the national arena opened the doors during World War II so women were accepted in the workplace at a time when they needed to be there and provided the self confidence in their abilities to perform whatever tasks that were put in front of them.
 
-## Women's Suffrage in Idaho
+## Womens Suffrage in Idaho
 
 ---
 
@@ -31,7 +31,7 @@ Because of the tie between temperance and suffrage. Liquor companies and seconda
 
 The quest for women’s suffrage in the west was successful earlier than that on the national level due to a notion that might be called western exceptionalism.[^6] They believed there was a spirit of freedom and independence fostered by the pioneer experience that was unique. It was also easier to shape new laws than try to overcome “tyrant” customs of the east. On the temperance front the WCTU continued their efforts erecting temperance water fountains, one of which still stands outside of Boise City Hall. They were successful in achieving the goal of temperance when Governor Moses Alexander approved statewide prohibition in 1916.
 
-## Women's Suffrage for Minorities in Idaho
+## Womens Suffrage for Minorities in Idaho
 
 While 1896 amendment gave the vote to white women in Idaho and nationally in 1915, other women were not so lucky. Native born Indigenous women were granted the right to vote in 1896 but nationwide indigenous people were not able to participate in voting until the signing of the Indian Citizenship Act of June 2, 1924. It was hoped that this act would close the gap for Indigenous people but due to varying state and local laws until the Voting Rights Act passed in 1965.[^7] Indigenous women faced unique challenges as historian Sally Roesch Wagner wrote” “These women lived in native nations that tenaciously held on, as well as they could, to their system of real equality despite the best efforts of missionaries, boarding schools, and federal and state governments alike to deprive them of it. They still do, and are reclaiming their identity as ‘sovereign women in sovereign nations.’”[^8]
 
@@ -44,7 +44,7 @@ During her lifetime she was a registered voter and was active in local politics.
 
 Chinese women could exercise the right to vote if they were native born. Chinese women in Boise were aware of national suffrage attempts as well as reforms in China. The Idaho Statesman printed a photo of Mabel Lee on April 22nd under the headline, “Chinese Woman Who Is a Suffragette.” The image caption included that “All Chinatown is proud of Mabel, who has been in this country seven years and is now ready to enter Barnard college. She and her mother are suffragett es [sic], and will participate in the great suffrage parade on May 4.”[^15] It is unclear whether Chinatown referred to the local one in Boise but given the context it appears it might be. Prior to the 1943 Magnuson Act, Chinese men and women were unable to become naturalized citizens which prevented them from voting. This did not stop them from working towards women’s suffrage. In Boise, a group known as the Chinese suffragettes entered floats in the fourth of July parades in 1917 and 1919 taking advantage of the fanfare of the celebrations. The Idaho Statesman reported about their 1917 efforts: “Three prominent members of the local Chinese colony, whom their husbands designate as the 'Chinese suffragettes' when they learned that the parade of next Wednesday was to exemplify the 'spirit of liberty,' decided they would take the matter into their own hands this year and plan a float themselves, one which should typify the Chinese spirit of liberty.”[^16] The women referenced were Mrs. Lucille (Lucy) Emow, Mrs. Fong Bow and Mrs Fong You. They created a float with a small Washington monument with one side showing a picture of George Washington and the other side a picture of Dr. Sun Yet Sen, the father of the Chinese republic.[^17] These women were proud of being Americans and wished to show their allegiance to the country of their adoption. Lucy Emow was registered to vote in Boise during 1917 as was her husband. Her right to vote was organized around an anti-Chinese sentiment.[^18] Despite this view Chinese women could vote in Idaho before their counterparts in the American west.
 
-## Women's Suffrage on the National Scale
+## Womens Suffrage on the National Scale
 
  In the late 19th century less than 20% of the workforce were women. The standard for women was to be married and to work in the home raising their families. Women who lived alone were known as “women adrift” and were accounted for in a special census category.[^19] They found jobs in dressmakers’ shops, food preparation, textile mills and garment factories. These women often worked long hours per day and their pay was often reduced for minor infractions such as losing needles or using too much thread. As the Progressive movement became popular women’s rights took more of a front row seat as the movement’s issues included the family and women’s rights. Organizations such as the Woman’s Christian Temperance Union and the National Woman’s Suffrage Association worked to better women’s position in society. Urban women worked to clean up neighborhoods and get funding for parks. The work of Margaret Sanger championed birth control improving public health and reducing poverty by decreasing the size of families.
  
