@@ -60,7 +60,7 @@ The women got their break in 1912 when the public soured on the antisuffragist l
 
 {% include feature/image.html filename="No women.png" alt="Women not one of the top 250 words " %}
 
-This shows the top 250 words in the State of the Union addresses in the first half of the twentieth century. Note that women is not among them.
+This shows the top 250 words in the State of the Union addresses in the first half of the twentieth century. Note that women is not among them. Nationally women did not make a presence but in Idaho women had a presence!
 
 ## Wilson's reticence
 
@@ -83,6 +83,8 @@ This graph shows the use of the word woman in State of the Union speaches for th
 By being able to vote in elections, women found that they had a voice in the decisions being made locally and nationally. But having the vote sometimes is not enough. Shortly after winning the right to vote, members of the National Woman’s Party including Crystal Eastman and Alice Paul drafted the Equal Rights Amendment. A version of the amendment was proposed in each session of Congress until 1970. Just as when women were fighting for abolition of slavery and because of this exposure their own goals of suffrage for women were promoted, the fight for the Equal Rights Amendment in many ways had ties to the Civil Rights Movements of the sixties and seventies. In the sixties women got involved with protesting the war in Viet Nam and working for civil rights for the Blacks. Sarah M. Evans, in the article “Sons, Daughter, and Patriarchy: Gender and the 1968 Generation” asserts that by looking at women’s roles in 1968 activism, the groundwork of female leadership in the feminist movement can be found.[^21] Evans supports this assertion by examining the struggle where women had to assert themselves even in these “radical” environments, often being assigned domestic or clerical tasks instead of leadership roles. Through these struggles, the publics perspective of women changed, allowing them to have a public voice and leading to acceptance of women’s leadership. These relationships help set up the Equal Rights Act of 1972.
 
 {% include feature/image.html filename="equal rights amendment.png" alt="line graph showing the use of the words equals, rights and amendment" caption="line graph showing the use of the words equals, rights and amendment" %}
+
+Note that the word rights is used frequently. However in the height of the ERA push for ratification the word rights is not used in conjuction with womens rights.
 
 ## Enter The ERA
 
