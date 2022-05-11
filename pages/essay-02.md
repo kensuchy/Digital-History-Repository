@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Womens Suffrage in Idaho;Womens Suffrage for Minorities in Idaho;Womens Suffrage on the National Scale;Wilson's reticence;The Vote is not Enough;Enter The ERA;New Developments;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Womens Suffrage in Idaho;Womens Suffrage for Minorities in Idaho;Womens Suffrage on the National Scale;Wilsons reticence;The Vote is not Enough;Enter The ERA;New Developments;Conclusion;Notes" %}
 
 # Evolution of Women's Influence in America
 
